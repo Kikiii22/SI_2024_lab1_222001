@@ -1,0 +1,107 @@
+LOGOVI NA BUG2
+commit 9976e47ce74afe842721308b54faf2b3d3e1c157 (HEAD -> bug2, origin/master, origin/bug2, master)
+Author: Hristina Zdraveska <kikezdraveska@gmail.com>
+Date:   Fri Apr 12 14:31:02 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 70fe4cc18df88949f7b13e2f58c3b7446f1aa596
+Author: Hristina Zdraveska <kikezdraveska@gmail.com>
+Date:   Fri Apr 12 14:02:25 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 812adfbc5e23e219328d5eff95f30fbe032fb488 (origin/bug1, bug1)
+Author: Hristina Zdraveska <kikezdraveska@gmail.com>
+Date:   Fri Apr 12 14:15:37 2024 +0200
+
+    Call method filterOddLengthStrings in main class.
+
+commit 0f3446d2bccc72e7b6d88d5de150b50718670c7b
+Author: Hristina Zdraveska <kikezdraveska@gmail.com>
+Date:   Fri Apr 12 13:54:28 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 49bfbbef8055bd52d48559a0f1842072d1ac6463
+Author: Hristina Zdraveska <kikezdraveska@gmail.com>
+Date:   Fri Apr 12 13:14:36 2024 +0200
+
+    Add starter code
+
+commit 8de21f961b50e9227932055a1b1135565ba2ef6e
+Author: Hristina Zdraveska <kikezdraveska@gmail.com>
+Date:   Fri Apr 12 13:07:25 2024 +0200
+
+    Initial commit
+
+C:\Users\Lenovo\Desktop\SI_2024_lab1_222001>
+LOGOVI NA MASTER
+
+C:\Users\Lenovo\Desktop\SI_2024_lab1_222001>git log
+commit 9976e47ce74afe842721308b54faf2b3d3e1c157 (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: Hristina Zdraveska <kikezdraveska@gmail.com>
+Date:   Fri Apr 12 14:31:02 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 70fe4cc18df88949f7b13e2f58c3b7446f1aa596
+Author: Hristina Zdraveska <kikezdraveska@gmail.com>
+Date:   Fri Apr 12 14:02:25 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 812adfbc5e23e219328d5eff95f30fbe032fb488 (origin/bug1, bug1)
+Author: Hristina Zdraveska <kikezdraveska@gmail.com>
+Date:   Fri Apr 12 14:15:37 2024 +0200
+
+    Call method filterOddLengthStrings in main class.
+
+commit 0f3446d2bccc72e7b6d88d5de150b50718670c7b
+Author: Hristina Zdraveska <kikezdraveska@gmail.com>
+Date:   Fri Apr 12 13:54:28 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 49bfbbef8055bd52d48559a0f1842072d1ac6463
+Author: Hristina Zdraveska <kikezdraveska@gmail.com>
+Date:   Fri Apr 12 13:14:36 2024 +0200
+
+    Add starter code
+
+commit 8de21f961b50e9227932055a1b1135565ba2ef6e
+Author: Hristina Zdraveska <kikezdraveska@gmail.com>
+Date:   Fri Apr 12 13:07:25 2024 +0200
+
+    Initial commit
+
+LOGOVI NA BUG1
+commit 812adfbc5e23e219328d5eff95f30fbe032fb488 (HEAD -> bug1, origin/bug1)
+Author: Hristina Zdraveska <kikezdraveska@gmail.com>
+Date:   Fri Apr 12 14:15:37 2024 +0200
+
+    Call method filterOddLengthStrings in main class.
+
+commit 0f3446d2bccc72e7b6d88d5de150b50718670c7b
+Author: Hristina Zdraveska <kikezdraveska@gmail.com>
+Date:   Fri Apr 12 13:54:28 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 49bfbbef8055bd52d48559a0f1842072d1ac6463
+Author: Hristina Zdraveska <kikezdraveska@gmail.com>
+Date:   Fri Apr 12 13:14:36 2024 +0200
+
+    Add starter code
+
+commit 8de21f961b50e9227932055a1b1135565ba2ef6e
+Author: Hristina Zdraveska <kikezdraveska@gmail.com>
+Date:   Fri Apr 12 13:07:25 2024 +0200
+
+    Initial commit
+
+
+
+
+
+
